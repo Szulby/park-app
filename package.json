@@ -17,6 +17,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@apollo/client": "^4.0.2",
     "@fontsource/dm-sans": "^5.2.6",
     "@fontsource/lato": "^5.2.6",
     "@fontsource/poppins": "^5.2.6",
