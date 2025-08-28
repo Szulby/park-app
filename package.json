@@ -17,6 +17,9 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@fontsource/dm-sans": "^5.2.6",
+    "@fontsource/lato": "^5.2.6",
+    "@fontsource/poppins": "^5.2.6",
     "@tailwindcss/vite": "^4.1.12",
     "tailwindcss": "^4.1.12",
     "vite-svg-loader": "^5.1.0",
